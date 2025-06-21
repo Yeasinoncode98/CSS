@@ -1,36 +1,42 @@
-/*
-ul {
-  list-style-type: disc;
-  list-style-type: square;
-  list-style: georgian;
-  list-style: decimal;
-  list-style: decimal-leading-zero;
+table,
+th,
+td {
 
+  border: 1px dotted aqua;
+  border-collapse: collapse;
+  padding: 5px 10px;
 
-  list-style-image: url(hand.png);
-
-
-  list-style-position: inside;
-  list-style-position: outside;
-
-  margin: 0;
-  padding: 0;
-
-  list-style-position: inside;
-
-  margin-left: 25px;
-
-} */
-
-
-ul {
-  background: tomato;
-  padding: 20px;
-  list-style-position: inside;
 }
 
-li {
-  background: violet;
-  padding: 5px;
-  border-bottom: 1px dashed red;
+table {
+  width: 100%;
+}
+
+th {
+  height: 50px;
+  text-align: left;
+  background: green;
+  color: red;
+
+}
+
+td {
+  background: yellow;
+  border: 1px solid violet;
+  color: blue;
+  height: 35px;
+  vertical-align: center;
+}
+
+tr:hover th,
+tr:hover td {
+  background: grey;
+}
+
+div {
+  width: 450px;
+  /* height: 100px; */
+  overflow: hidden;
+  overflow-x: auto;
+  overflow-y: scroll;
 }

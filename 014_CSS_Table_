@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Four Frag Men</title>
+    <link rel="icon" href="css.png">
+    <link rel="stylesheet" href="styles.css">
+
+
+</head>
+
+<body>
+
+    <h1 id="id">Yeasin Arafat</h1>
+    <div>
+        <table>
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Age</th>
+                    <th>Skill</th>
+                    <th>Name</th>
+                    <th>Age</th>
+                    <th>Skill</th>
+                    <th>Name</th>
+                    <th>Age</th>
+                    <th>Skill</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Yeasin</td>
+                    <td>20</td>
+                    <td>WordPress</td>
+                    <td>Yeasin</td>
+                    <td>20</td>
+                    <td>WordPress</td>
+                    <td>Yeasin</td>
+                    <td>20</td>
+                    <td>WordPress</td>
+                </tr>
+
+                <tr>
+                    <td>Arafat</td>
+                    <td>22</td>
+                    <td>Website</td>
+                    <td>Arafat</td>
+                    <td>22</td>
+                    <td>Website</td>
+                    <td>Arafat</td>
+                    <td>22</td>
+                    <td>Website</td>
+                </tr>
+
+                <tr>
+                    <td>Mahatir</td>
+                    <td>11</td>
+                    <td>Fishing</td>
+                    <td>Mahatir</td>
+                    <td>11</td>
+                    <td>Fishing</td>
+                    <td>Mahatir</td>
+                    <td>11</td>
+                    <td>Fishing</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+
+
+</body>
+
+</html>
+
+<!-- 
+USED CSS HERE 
+
+table,
+th,
+td {
+
+  border: 1px dotted aqua;
+  border-collapse: collapse;
+  padding: 5px 10px;
+
+}
+
+table {
+  width: 100%;
+}
+
+th {
+  height: 50px;
+  text-align: left;
+  background: green;
+  color: red;
+
+}
+
+td {
+  background: yellow;
+  border: 1px solid violet;
+  color: blue;
+  height: 35px;
+  vertical-align: center;
+}
+
+tr:hover th,
+tr:hover td {
+  background: grey;
+}
+
+div {
+  width: 450px;
+  /* height: 100px; */
+  overflow: hidden;
+  overflow-x: auto;
+  overflow-y: scroll;
+}
+  
+-->
