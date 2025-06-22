@@ -1,30 +1,52 @@
-h1,
-p,
-span,
-h3 {
-  background: teal;
-
+body {
+  margin: 0;
 }
 
-h1 {
-  display: inline-block;
+
+div {
+  background: aqua;
+  width: 400px;
+  height: 400px;
+  margin: 0;
+  /* margin-left: 20px;
+    margin-top: 20px; */
 }
 
-span {
-  display: block;
+.main {
+  position: relative;
+  top: 50px;
+  left: 50px;
 }
 
-h3 {
-  display: none;
+.sec {
+  background: blueviolet;
+  width: 100px;
+  height: 100px;
+  right: 10px;
+  top: 10px;
+  position: fixed;
 }
 
-a {
-  background: teal;
+.child {
+  background: plum;
+  width: 50px;
+  height: 50px;
+  left: 50%;
+  margin-left: -25px;
+  right: 0;
+  position: absolute;
+  top: 50%;
+  margin-top: -25px;
 }
 
-a.btn {
-  background: violet;
-  color: #fff;
-  padding: 10px 25px;
-  display: inline-block;
+.stk {
+
+  background: gold;
+  width: 100%;
+  height: 100px;
+  position: sticky;
+
+  bottom: 0;
+  left: 0;
+
 }
