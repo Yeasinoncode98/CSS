@@ -1,42 +1,30 @@
-table,
-th,
-td {
-
-  border: 1px dotted aqua;
-  border-collapse: collapse;
-  padding: 5px 10px;
+h1,
+p,
+span,
+h3 {
+  background: teal;
 
 }
 
-table {
-  width: 100%;
+h1 {
+  display: inline-block;
 }
 
-th {
-  height: 50px;
-  text-align: left;
-  background: green;
-  color: red;
-
+span {
+  display: block;
 }
 
-td {
-  background: yellow;
-  border: 1px solid violet;
-  color: blue;
-  height: 35px;
-  vertical-align: center;
+h3 {
+  display: none;
 }
 
-tr:hover th,
-tr:hover td {
-  background: grey;
+a {
+  background: teal;
 }
 
-div {
-  width: 450px;
-  /* height: 100px; */
-  overflow: hidden;
-  overflow-x: auto;
-  overflow-y: scroll;
+a.btn {
+  background: violet;
+  color: #fff;
+  padding: 10px 25px;
+  display: inline-block;
 }

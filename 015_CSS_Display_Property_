@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Four Frag Men</title>
+    <link rel="icon" href="css.png">
+    <link rel="stylesheet" href="styles.css">
+
+
+</head>
+
+<body>
+
+    <h1>Yeasin Arafat</h1>
+    <p>Arafat</p>
+    <span>Mahatir</span>
+    <h2><a href="">Add Me Here</a></h2> <!-- Best Practise block er vetore inline block -->
+    <h3>Ammu</h3>
+
+    <a href="" class="btn">Contact Us</a>
+
+</body>
+
+</html>
+
+<!--
+Used CSS Here
+
+h1,
+p,
+span,
+h3 {
+  background: teal;
+
+}
+
+h1 {
+  display: inline-block;
+}
+
+span {
+  display: block;
+}
+
+h3 {
+  display: none;
+}
+
+a {
+  background: teal;
+}
+
+a.btn {
+  background: violet;
+  color: #fff;
+  padding: 10px 25px;
+  display: inline-block;
+}
+
+
+-->
