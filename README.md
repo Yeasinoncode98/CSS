@@ -70,4 +70,7 @@ If this repo inspired or helped you, consider:
 🌟 Starring the repo
 🍴 Forking it to explore
 🤝 Sharing it with fellow developers
-<p align="center"> <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="180" /> </p> ```
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTh0ZDUwNW50cjhmMGg1M2pyazRxZGw2eGw2a21hZ3U4bHQ4MWZybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5WJ6K7XnP2K2p3VWft/giphy.gif" width="250" />
+</p>
+```
