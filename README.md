@@ -1,9 +1,8 @@
 <!-- Banner -->
 <h1 align="center" style="font-family:sans-serif;">🎨 Welcome to the Magic Playground of CSS 🪄</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7971E&center=true&vCenter=true&width=700&height=50&lines=✨+Welcome+to+the+playground+of+CSS+magics+of+Yeasin+Arafat!;⚡+Creative+Designs+Made+with+Pure+CSS;🎯+Explore+%7C+Learn+%7C+Inspire!" />
-</p>
+<p align="center"><strong>✨ Welcome to the playground of CSS magics of Yeasin Arafat ✨</strong></p>
+
 
 ---
 
