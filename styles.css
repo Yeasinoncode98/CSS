@@ -37,16 +37,32 @@ div {
   position: absolute;
   top: 50%;
   margin-top: -25px;
+  z-index: 4;
 }
 
-.stk {
 
-  background: gold;
-  width: 100%;
+.child2 {
+  background: peru;
+  width: 100px;
   height: 100px;
-  position: sticky;
+  left: 50%;
+  margin-left: -50px;
+  right: 0;
+  position: absolute;
+  top: 50%;
+  margin-top: -50px;
+  z-index: 3;
+}
 
-  bottom: 0;
-  left: 0;
-
+.child3 {
+  background: blue;
+  width: 200px;
+  height: 200px;
+  left: 50%;
+  margin-left: -50px;
+  right: 0;
+  position: absolute;
+  top: 50%;
+  margin-top: -50px;
+  z-index: 2;
 }
